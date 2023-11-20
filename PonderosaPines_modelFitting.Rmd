@@ -176,4 +176,5 @@ plot(x,FitError,col="red",pch=16, main="Residuals from the power model (ax^3 + b
 ```
 
 Remember to look at the scale.  This model has pretty large errors, especially for diameters over 40 and around 33.
+git hub is awesome
 
